@@ -1,6 +1,3 @@
-Here's a clean and structured Markdown version of your text, formatted for clarity and presentation:
-
----
 
 # Solving Sudoku Puzzles: A Comparative Study of Backtracking, Reinforcement Learning, and MRV Heuristic  
 **Course**: AI 801 - Foundations of Artificial Intelligence  
